@@ -4,7 +4,9 @@
 
 🎉 Welcome to my GitHub profile!
 
-𝗜'𝗺  [**OlegBiletsky**](https://github.com/OlegBiletsky)!  𝗜'𝗺 𝗮 **junior** 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿 👨‍💻
+## 𝗜'𝗺  [**OlegBiletsky**](https://github.com/OlegBiletsky)!  
+
+### 𝗜'𝗺 𝗮 **junior** 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿 👨‍💻
 
 ---
 
@@ -12,27 +14,26 @@
 
 -  **Learning :** Frontend Development :zap: | JS :fire:    
 -  **Languages :** JavaScript, Reat, HTML, CSS
--  **Hobbies :** Basketball :basketball: & Music :headphones:
+-  **Hobbies :** Volleyball :volleyball: & Hiking :hiking:
 -  **Fact :** First solve the problem, then write the code :heart:
 -  **Contact me :** [OlegBiletsky](mailto:ol.biletsky@gmail.com)
 -  **My blog:** http://
-
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on WEB Projects
 - 🤔 I’m looking for help with API (development)
-- 💬 Ask me about Peshawar (Tech's spike)
-- ⚡ Fun fact: If I'm not found here, I'll most probably be hiking!
-- 😄 Pronouns: him/he
+
 
 
 ### Languages and Tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/redux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 ---
 
@@ -67,13 +68,13 @@
 
 <details>
   
-<summary>🚀👀 Some of my main projects: ⚙️</summary>
+<summary>👀 Some of my main projects: ⚙️</summary>
   
-- [Simps](https://github.com/simple-swoole/simps) - A simple, lightweight and high-performance PHP coroutine framework.
+- [lorem1](https://github.com/) - Lorem ipsum .
 
-- [docsify](https://github.com/docsifyjs/docsify) - A magical documentation site generator.
+- [lorem2](https://github.com/) - Lorem ipsum Lorem ipsum ipsum doler.
 
-- [Hyperf](https://github.com/hyperf/hyperf) - A coroutine framework that focuses on hyperspeed and flexibility. Building microservice or middleware with ease.
+- [lorem3](https://github.com/) - Lorem ipsum Lorem ipsum Lorem ipsum dolor.
 
 </details>
 
@@ -83,5 +84,7 @@
 ⭐️ From [Umair Jibran](https://github.com/umairjibran)
 ⭐️ From [sy-records](https://github.com/sy-records)
 ⭐️ From [saviomartin](https://github.com/saviomartin)
+⭐️ From [Yaronzz](https://github.com/yaronzz)
+⭐️ From [victorabarros](https://github.com/victorabarros/victorabarros)
 
 
