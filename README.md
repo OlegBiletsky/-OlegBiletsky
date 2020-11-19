@@ -1,38 +1,24 @@
-# 𝗛𝗲𝗹𝗹𝗼! <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
+# 𝗛𝗶 there! <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">  👋
+
+🎉 Welcome to my GitHub profile!
 
 𝗜'𝗺  [**OlegBiletsky**](https://github.com/OlegBiletsky)!  𝗜'𝗺 𝗮 **junior** 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿 👨‍💻
 
-
-
 ### 🧐 About
 
--  **Learning :** Full-Stack Development :zap: | Open-Source :fire:    
--  **Languages :** PHP, Go, JavaScript
+-  **Learning :** Frontend Development :zap: | JS :fire:    
+-  **Languages :** JavaScript, Reat, HTML, CSS
 -  **Hobbies :** Basketball :basketball: & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart:
--  **Contact me :** [WangNingkai](mailto:i@ningkai.wang)
--  **My blog:** http://yaronzz.top
--  **How to reach me:** yaronhuang@foxmail.com
-
+-  **Contact me :** [OlegBiletsky](mailto:ol.biletsky@gmail.com)
+-  **My blog:** http://
 
 ### Languages and Tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
@@ -52,7 +38,6 @@
 <a href="mailto:sarthak02singhal@gmail.com"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-gmail-48.png" alt="Gmail"></a> &nbsp; &nbsp;
 </p>
 
-https://icons8.com/icons/set/svg
 
 <br/>
 
@@ -69,11 +54,6 @@ https://icons8.com/icons/set/svg
 
 
 
-
-
-
-### Hi there 👋
-
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on WEB Projects
 - 🤔 I’m looking for help with API (development)
@@ -88,26 +68,12 @@ https://icons8.com/icons/set/svg
 
 <img src="https://cdn.jsdelivr.net/gh/sy-records/staticfile@master/images/202007/huaji.gif" align="right" height="150">
 
-🎉 Welcome to my GitHub profile!
-
-👨🏻‍💻 I'm Luffy - a PHP developer, WordPress plugin developer and Open source contributor.
-
-You can contact me on [WeiBo](https://weibo.com/i3l4521) or [Twitter](https://twitter.com/lufeidot).
 
 <details>
-<summary>About Open Source </summary>
-
-🚀 Some of my main projects:
-
+<summary>🚀👀 Some of my main projects: ⚙️</summary>
 - [Simps](https://github.com/simple-swoole/simps) - A simple, lightweight and high-performance PHP coroutine framework.
-
-⚙️ I also participated in maintaining some open source projects:
-
 - [docsify](https://github.com/docsifyjs/docsify) - A magical documentation site generator.
 - [Hyperf](https://github.com/hyperf/hyperf) - A coroutine framework that focuses on hyperspeed and flexibility. Building microservice or middleware with ease.
-
-👀 [Get More ...](https://github.com/sy-records)
-
 </details>
 
 ---
