@@ -2,8 +2,6 @@
 
 𝗜'𝗺  [**OlegBiletsky**](https://github.com/OlegBiletsky)!  𝗜'𝗺 𝗮 **junior** 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿 👨‍💻
 
-𝗜'𝗺 [𝗬𝗮𝗿𝗼𝗻𝘇𝘇](https://github.com/yaronzz)！𝗜'𝗺 𝗮 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿 👨‍💻 𝘄𝗵𝗼 𝗶𝘀 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 𝗺𝘂𝘀𝗶𝗰 𝗮𝗻𝗱 𝗼𝗽𝗲𝗻 𝘀𝗼𝘂𝗿𝗰𝗲.
-
 
 <p align="center"> 
   <i> Let's connect and chat! :incoming_envelope: </i>
@@ -18,31 +16,7 @@
 
 <!--https://icons8.com/icons/set/svg-->
 
-
-
-
-
-
 <br/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Yaronzz)](https://twitter.com/Yaronzz)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yaronhuang@foxmail.com)](mailto:yaronhuang@foxmail.com)
