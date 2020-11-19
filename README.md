@@ -1,8 +1,12 @@
 # 𝗛𝗶 there! <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">  👋
 
+---
+
 🎉 Welcome to my GitHub profile!
 
 𝗜'𝗺  [**OlegBiletsky**](https://github.com/OlegBiletsky)!  𝗜'𝗺 𝗮 **junior** 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿 👨‍💻
+
+---
 
 ### 🧐 About
 
@@ -13,6 +17,14 @@
 -  **Contact me :** [OlegBiletsky](mailto:ol.biletsky@gmail.com)
 -  **My blog:** http://
 
+- 🌱 I’m currently learning JavaScript
+- 👯 I’m looking to collaborate on WEB Projects
+- 🤔 I’m looking for help with API (development)
+- 💬 Ask me about Peshawar (Tech's spike)
+- ⚡ Fun fact: If I'm not found here, I'll most probably be hiking!
+- 😄 Pronouns: him/he
+
+
 ### Languages and Tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -22,10 +34,11 @@
 <code><img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+---
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-
+---
 
 <p align="center"> 
   <i> Let's connect and chat! :incoming_envelope: </i>
@@ -52,28 +65,16 @@
 ---
 
 
-
-
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on WEB Projects
-- 🤔 I’m looking for help with API (development)
-- 💬 Ask me about Peshawar (Tech's spike)
-- ⚡ Fun fact: If I'm not found here, I'll most probably be hiking!
-- 😄 Pronouns: him/he
-
-
-
-
-### Hi there 👋
-
-<img src="https://cdn.jsdelivr.net/gh/sy-records/staticfile@master/images/202007/huaji.gif" align="right" height="150">
-
-
 <details>
+  
 <summary>🚀👀 Some of my main projects: ⚙️</summary>
+  
 - [Simps](https://github.com/simple-swoole/simps) - A simple, lightweight and high-performance PHP coroutine framework.
+
 - [docsify](https://github.com/docsifyjs/docsify) - A magical documentation site generator.
+
 - [Hyperf](https://github.com/hyperf/hyperf) - A coroutine framework that focuses on hyperspeed and flexibility. Building microservice or middleware with ease.
+
 </details>
 
 ---
