@@ -33,18 +33,18 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends. I'll be happy to meet you more!</b> 😊</em>
 
----
 
-<p align="center"> 
+
+<p align="left"> 
   <i> Let's connect and chat! :incoming_envelope: </i>
 </p>
 
 <br/>
 
 [![Email Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:ol.biletsky@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](https://)
+[![Telegram Badge](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@olbiletsky)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olegbiletsky/)
-[![Github Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/OlegBiletsky)
+[![Github Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/OlegBiletsky?tab=repositories)
 
 
 
