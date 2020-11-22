@@ -37,7 +37,7 @@
 
 
 <p align="left"> 
-  <i> Let's connect and chat! :incoming_envelope: </i>
+  <i> Let's connect and chat! </i>
 </p>
 
 <br/>
@@ -50,13 +50,5 @@
 
 
 
----
-⭐️ From [sarthak77](https://github.com/sarthak77)
-⭐️ From [WangNingkai](https://github.com/WangNingkai)
-⭐️ From [Umair Jibran](https://github.com/umairjibran)
-⭐️ From [sy-records](https://github.com/sy-records)
-⭐️ From [saviomartin](https://github.com/saviomartin)
-⭐️ From [Yaronzz](https://github.com/yaronzz)
-⭐️ From [victorabarros](https://github.com/victorabarros/victorabarros)
 
 
