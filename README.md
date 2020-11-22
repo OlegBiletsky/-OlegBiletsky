@@ -29,6 +29,9 @@
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" width="21px" height="21px"></a>
 <a href="https://www.npmjs.com/" title="NPM"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/npm.svg" alt="NPM" width="21px" height="21px"></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>
+<a href="https://github.com/" title="github-octocat"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/github-octocat.svg" alt="github-octocat" width="21px" height="21px"></a>
+
+
 
 ---
 
