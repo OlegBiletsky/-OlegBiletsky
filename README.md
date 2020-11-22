@@ -2,9 +2,9 @@
 
 🎉 Welcome to my GitHub profile!
 
-# My name is  [**Oleg Biletsky**](https://github.com/OlegBiletsky)!  
+# My name is  ***Oleg Biletsky***
 
-### 𝗜'𝗺 𝗮 ***junior*** 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿 👨‍💻
+### 𝗜'𝗺 𝗮 **junior** 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿 👨‍💻
 
 
 
