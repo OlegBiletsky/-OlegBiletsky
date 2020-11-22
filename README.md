@@ -8,12 +8,12 @@
 
 
 
-### 🧐 About
+### About
 
--  **Learning :** Frontend Development :zap: | JS :fire:    
+-  **Learning :** Frontend Software Development    
 -  **Languages :** JavaScript, React, HTML, CSS
--  **Hobbies :** Volleyball :volleyball: & Hiking 
--  **Fact :** First understand and solve the problem, then write the code :heart:
+-  **Hobbies :** Volleyball & Hiking 
+-  **Fact :** First understand and solve the problem, then write the code
 -  **My blog:** http://
 
 
