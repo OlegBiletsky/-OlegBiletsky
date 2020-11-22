@@ -14,7 +14,6 @@
 -  **Languages :** JavaScript, React, HTML, CSS
 -  **Hobbies :** Volleyball :volleyball: & Hiking 
 -  **Fact :** First understand and solve the problem, then write the code :heart:
--  **Contact me :** [OlegBiletsky](mailto:ol.biletsky@gmail.com)
 -  **My blog:** http://
 
 
