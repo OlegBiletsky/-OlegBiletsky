@@ -12,7 +12,7 @@
 
 -  **Learning :** Frontend Development :zap: | JS :fire:    
 -  **Languages :** JavaScript, React, HTML, CSS
--  **Hobbies :** Volleyball :volleyball: & Hiking :hiking:
+-  **Hobbies :** Volleyball :volleyball: & Hiking 
 -  **Fact :** First understand and solve the problem, then write the code :heart:
 -  **Contact me :** [OlegBiletsky](mailto:ol.biletsky@gmail.com)
 -  **My blog:** http://
@@ -42,7 +42,7 @@
 <br/>
 
 [![Email Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:ol.biletsky@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@olbiletsky)
+[![Telegram Badge](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/olbiletsky)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olegbiletsky/)
 [![Github Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/OlegBiletsky?tab=repositories)
 
