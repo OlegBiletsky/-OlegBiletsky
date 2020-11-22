@@ -31,7 +31,7 @@
 <a href="https://www.npmjs.com/" title="NPM"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/npm.svg" alt="NPM" width="21px" height="21px"></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>
 <a href="https://google.com/" title="google-icon"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/google-icon.svg" alt="google-icon" width="21px" height="21px"></a>
-
+<a href="https://google.com/" title="google-developers-icon.svg"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/google-developers-icon.svg" alt="google-developers-icon.svg" width="21px" height="21px"></a>
 
 
 
