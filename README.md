@@ -18,10 +18,6 @@
 -  **Fact :** First understand and solve the problem, then write the code :heart:
 -  **Contact me :** [OlegBiletsky](mailto:ol.biletsky@gmail.com)
 -  **My blog:** http://
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on WEB Projects
-- 🤔 I’m looking for help with API
-
 
 
 ### Languages and Tools
@@ -55,24 +51,6 @@
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yaronhuang@foxmail.com)](mailto:ol.biletsky@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/OlegBiletsky)
-
-
-
-
----
-
-
-<details>
-  
-<summary>👀 Some of my main projects: ⚙️</summary>
-  
-- [lorem1](https://github.com/) - Lorem ipsum .
-
-- [lorem2](https://github.com/) - Lorem ipsum Lorem ipsum ipsum doler.
-
-- [lorem3](https://github.com/) - Lorem ipsum Lorem ipsum Lorem ipsum dolor.
-
-</details>
 
 ---
 ⭐️ From [sarthak77](https://github.com/sarthak77)
