@@ -10,7 +10,7 @@
 
 ### About
 
-- **Subject Field :** Programming 
+- **Subject Field :** Computer Science
 -  **Technologies Stack :** JavaScript, react.js, redux, HTML5, CSS3, SCSS, BEM, flexbox
 -  **Hobbies :** Singing, Hiking, Teaching 
 -  **Fact :** First understand and solve the problem, then write the code
