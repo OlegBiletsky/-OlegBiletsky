@@ -12,7 +12,14 @@
 
 - **Subject Field :** Computer Science
 -  **Technologies Stack :** JavaScript, react.js, redux, HTML5, CSS3, SCSS, BEM, flexbox
--  **Soft Skills :**  • Work with adults and children • teaching experience • communication • public speaking • analytical and structural thinking • responsibility • desire to learn •
+-  **Soft Skills :**  
+                    • Work with adults and children 
+                    • teaching experience 
+                    • communication 
+                    • public speaking 
+                    • analytical and structural thinking 
+                    • responsibility 
+                    • desire to learn
 -  **Hobbies :** Singing, Hiking, Teaching 
 -  **Fact :** First understand and solve the problem, then write the code
 
