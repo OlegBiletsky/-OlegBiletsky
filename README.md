@@ -10,12 +10,8 @@
 
 ### About
 
-I'm looking for a junior frontend position to work in a team on interesting projects and become more experienced in web development. I completed the course in IT Cluster Academy and developed a couple of projects.
-I have a strong mathematics background and a master's degree in computer science. My last position was as a Technical Support Engineer. What helps me to think analytically and structurally. During my study, I worked as a teacher of math in a school that gave me experience in communication and responsibility.
-I am looking for a new role and already dream of quickly realizing all my skills and abilities in projects. I can say with confidence that the frontend direction brings me inspiration and the desire to improve my skills every day.
-
--  **Learning :** Frontend Software Development    
--  **Technologies Stack :** JavaScript, react.js, HTML5, CSS3, SCSS, BEM, flexbox
+- **Subject Field :** Programming 
+-  **Technologies Stack :** JavaScript, react.js, redux, HTML5, CSS3, SCSS, BEM, flexbox
 -  **Hobbies :** Singing, Hiking, Teaching 
 -  **Fact :** First understand and solve the problem, then write the code
 
