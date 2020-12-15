@@ -48,7 +48,7 @@
 [![Telegram Badge](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/olbiletsky)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olegbiletsky/)
 [![Github Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/OlegBiletsky?tab=repositories)
-[![Skype Badge](https://img.shields.io/badge/skype-%2300AFF0.svg?&style=for-the-badge&logo=Skype&logoColor=white)](skype:olegbiletsky?chat)
+[![Skype Badge](https://img.shields.io/badge/skype-%2300AFF0.svg?&style=for-the-badge&logo=Skype&logoColor=white)](https://skype:olegbiletsky?chat)
 
 
 
