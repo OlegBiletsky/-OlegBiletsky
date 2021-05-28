@@ -11,7 +11,7 @@
 ### About
 
 - **Subject Field :** Computer Science
--  **Technologies Stack :** JavaScript, react.js, HTML5, CSS3,
+-  **Technologies Stack :** JavaScript, react.js, HTML, CSS,
 -  **Hobbies :** Singing, Hiking, Teaching 
 -  **Fact :** First understand and solve the problem, then write the code
 
