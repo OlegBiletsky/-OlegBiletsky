@@ -1,22 +1,6 @@
-# Hi there! <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">  👋
+# Hi there!  👋
 
-🎉 Welcome to my GitHub profile!
-
-# My name is  ***Oleg Biletsky***
-
-### **I'm a** junior **software engineer** 👨‍💻
-
-
-
-### About
-
-- **Subject Field :** Computer Science
--  **Technologies Stack :** JavaScript, react.js, HTML, CSS,
--  **Hobbies :** Singing, Hiking, Teaching 
--  **Fact :** First understand and solve the problem, then write the code
-
-
-### Languages and Tools
+# **Welcome to my GitHub profile!** 🎉 I'm a junior **software engineer.**
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React" width="21px" height="21px"></a>
@@ -30,9 +14,17 @@
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>
 <a href="https://google.com/" title="Google"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/google-icon.svg" alt="google-icon" width="21px" height="21px"></a>
 
-
-
 ---
+
+**Fact :** First understand and solve the problem, then write the code;
+
+
+### About
+
+- **Subject Field :** Computer Science;
+-  **Technologies Stack :** JavaScript, React, React-native, HTML, CSS, SCSS, Tailwind, Material UI, Redux...
+-  **Hobbies :** Singing, Hiking, Teaching;
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends. I'll be happy to meet you more!</b> 😊</em>
 
@@ -45,7 +37,7 @@
 <br/>
 
 [![Email Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:ol.biletsky@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/olbiletsky)
+[![Telegram Badge](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/olehbiletskyi)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olegbiletsky/)
 [![Github Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/OlegBiletsky?tab=repositories)
 
