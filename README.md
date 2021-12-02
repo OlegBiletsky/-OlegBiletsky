@@ -1,6 +1,5 @@
-# Hi there!  👋
-
-# **Welcome to my GitHub profile!** 🎉 I'm a junior **software engineer.**
+# **Welcome to my GitHub profile!** 🎉 
+# I'm a junior **software engineer.**
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React" width="21px" height="21px"></a>
@@ -16,17 +15,12 @@
 
 ---
 
-**Fact :** First understand and solve the problem, then write the code;
-
-
 ### About
 
 - **Subject Field :** Computer Science;
--  **Technologies Stack :** JavaScript, React, React-native, HTML, CSS, SCSS, Tailwind, Material UI, Redux...
+-  **Technologies Stack :** JavaScript, React, HTML, CSS, SCSS, Tailwind, Material UI...
 -  **Hobbies :** Singing, Hiking, Teaching;
 
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends. I'll be happy to meet you more!</b> 😊</em>
 
 
 
@@ -34,12 +28,9 @@
   <i> Let's connect and chat! </i>
 </p>
 
-<br/>
 
-[![Email Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:ol.biletsky@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/olehbiletskyi)
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olegbiletsky/)
-[![Github Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/OlegBiletsky?tab=repositories)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olehbiletskyi/)
+[![Github Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/OlehBiletskyi?tab=repositories)
 
 
 
