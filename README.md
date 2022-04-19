@@ -22,7 +22,7 @@
 ### About
 
 - **Subject Field :** Computer Science;
--  **Technologies Stack :** JavaScript, React, HTML, CSS, SCSS, Tailwind, Material UI... (<i>to be continued</i> :wink:)
+-  **Technologies Stack :** JavaScript, React, HTML, CSS, SCSS, Tailwind, Material UI, Chakra UI, GraphQL... (<i>to be continued</i> :wink:)
 -  **Hobbies :** Singing, Hiking, Teaching;
 
 
