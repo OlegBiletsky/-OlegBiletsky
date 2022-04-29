@@ -1,5 +1,4 @@
-# **Welcome to my GitHub profile!** 🎉 
-# I'm a junior **software engineer.**
+# **Welcome to my GitHub profile!** 
 
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
