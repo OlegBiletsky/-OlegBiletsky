@@ -1,7 +1,7 @@
 # **Welcome to my GitHub profile!** 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,redux,html,css,scss,)](https://skillicons.dev)
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
 
