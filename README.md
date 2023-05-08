@@ -24,7 +24,7 @@
 ### About
 
 - **Subject Field :** Computer Science;
--  **Technologies Stack :** JavaScript, TypeScript, React, Redux, ReduxToolkit, RTK-Query, HTML, CSS, SCSS, Tailwind, Material UI, Chakra UI, GraphQL... (<i>to be continued</i> :wink:)
+-  **Technologies Stack :** JavaScript, TypeScript, React, Redux, GraphQL, ReduxToolkit, RTK-Query, HTML, CSS, SCSS, Tailwind, Material UI, Chakra UI ... (<i>to be continued</i> :wink:)
 -  **Hobbies :** Singing, Hiking, Teaching;
 
 
