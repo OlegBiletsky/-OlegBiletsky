@@ -1,5 +1,6 @@
 # **Welcome to my GitHub profile!** 
-
+[![GitHub](icons/github.png)](https://github.com/hussainweb)
+[![GitLab](icons/gitlab.png)](https://gitlab.com/hussainweb)
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
 
